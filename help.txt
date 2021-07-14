@@ -1,0 +1,4 @@
+//npm install codemirror react-codemirror2
+
+codemirror-will be  text editor we use
+react-codemirror2:all us to use in react app with custom component.
